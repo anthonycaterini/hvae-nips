@@ -1,6 +1,8 @@
-# hvae
+# hvae-nips
 This Code to reproduce the experiments in the Hamiltonian Variational 
 Auto-Encoder (HVAE) paper (available [here](https://arxiv.org/abs/1805.11328)).
+
+This paper appeared in the proceedings of the 2018 conference on Neural Information Processing Systems (NeurIPS).
 
 ## Structure
 
