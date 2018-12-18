@@ -1,0 +1,14 @@
+*.pyc
+*.p
+.ipnyb_checkpoints
+*/.ipynb_checkpoints/*
+*.png
+checkpoint
+model.ckpt.*
+**/MNIST-data
+*.csv
+*.aux
+*.log
+*.synctex.gz
+*.pdf
+*.out
